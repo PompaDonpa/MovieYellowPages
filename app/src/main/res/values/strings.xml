@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MovieYellowPages</string>
+    <string name="desc">Image View</string>
+    <string name="movieName">Movie Name</string>
 </resources>
