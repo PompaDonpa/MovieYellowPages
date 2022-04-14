@@ -1,5 +1,7 @@
 package com.example.movieyellowpages.models;
 
+import com.squareup.picasso.RequestCreator;
+
 public class SearchArrayObject {
     String title = "";
     String poster_path = "";
@@ -28,4 +30,5 @@ public class SearchArrayObject {
     public void setId(String id) {
         this.id = id;
     }
+
 }
